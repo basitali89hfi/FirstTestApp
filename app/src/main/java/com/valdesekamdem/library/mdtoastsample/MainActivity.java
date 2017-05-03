@@ -12,6 +12,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //Second Same App
+        //Second Same App
+        //Second Same App
+        //Second Same App
+
     }
 
     public void showInfoToast(View view) {
