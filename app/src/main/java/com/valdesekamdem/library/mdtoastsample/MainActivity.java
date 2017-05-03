@@ -14,17 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
         // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
-        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
     }
 
     public void showInfoToast(View view) {
