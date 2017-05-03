@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showInfoToast(View view) {
-        MDToast.makeText(this, "This is an INFO Toast information", MDToast.LENGTH_LONG);
+        MDToast.makeText(this, "INFO Toast", MDToast.LENGTH_LONG);
     }
 
     public void showSuccessToast(View view) {
