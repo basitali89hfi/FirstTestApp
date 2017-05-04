@@ -25,7 +25,7 @@ public class MDToast {
 
     public static int LENGTH_LONG = Toast.LENGTH_LONG;
     public static int LENGTH_SHORT = Toast.LENGTH_SHORT;
-
+//kajsdh
     public static void makeText(Context context, String message, int duration) {
         makeText(context, message, duration, TYPE_INFO);
     }

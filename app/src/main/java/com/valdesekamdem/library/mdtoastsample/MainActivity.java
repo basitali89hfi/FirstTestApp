@@ -12,8 +12,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//wueryu
-//SLKDJFH
+        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
+        // test changesvcvbvbc zxcvxcvxcvxcvxcvxcvxcvc
     }
 
     public void showInfoToast(View view) {
